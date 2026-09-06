@@ -26,4 +26,4 @@ Programa criado para mostrar ao usuario o consumo de energia dos aparelhos eletr
 3. Digitar horas de consumo diario.
 4. Resultado total gasto mensal.
 
-5.contato: 317146762+thiagosantista1989-dev@users.noreply.github.com
+email: 317146762+thiagosantista1989-dev@users.noreply.github.com
